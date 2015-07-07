@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<window apply="com.chemasmas.controller.PieBasicComposer">
+    <charts id="chart" type="pie" title="Browser market shares at a specific website, 2010"/>
+</window>

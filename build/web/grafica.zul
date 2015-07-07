@@ -1,0 +1,3 @@
+<window apply="com.chemasmas.controller.ChartComposer">
+    <charts id="chart" type="line" title="Season Average Temperature" />
+</window>
